@@ -1,14 +1,8 @@
 {
-  {
-    version:1.0.0
-  }
-  {
-    links:
-    client:"www.xyz.com"
-    mod:"www.lmnop.com"
-  }
-  {
-    message:
-    "1.21.11 is available. Do you want to update?"
-  }
+  "version": "1.0.0",
+  "links": {
+    "client": "https://www.xyz.com",
+    "mod": "https://www.lmnop.com"
+  },
+  "message": "1.21.11 is available. Do you want to update?"
 }
