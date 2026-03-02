@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
   "links": {
-    "client": "https://www.xyz.com",
-    "mod": "https://www.lmnop.com"
+    "client": "https://www.dropbox.com/scl/fi/cqoiuei2syrj8h9uztuo2/CozyCoveClient.zip?rlkey=ath55510jubs6nxd1wf7l4has&st=6n1golto&dl=1",
+    "mod": "https://www.dropbox.com/scl/fi/95x1ln993ugdm3q983gm6/CozyCove.jar?rlkey=h44zt2komscemcxuno9jmzn6v&st=q4v0p1g7&dl=1"
   },
   "message": "1.21.11 is available. Do you want to update?"
   "forceupdate": {
