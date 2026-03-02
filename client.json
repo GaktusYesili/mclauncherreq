@@ -1,1 +1,10 @@
 {
+  {version:1.0.0}
+  {links:
+    client:"www.xyz.com"
+    mod:"www.lmnop.com"
+  }
+  {message:
+    "1.21.11 is available. Do you want to update?"
+  }
+}
