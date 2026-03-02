@@ -5,4 +5,8 @@
     "mod": "https://www.lmnop.com"
   },
   "message": "1.21.11 is available. Do you want to update?"
+  "forceupdate": {
+    "enabled": false
+    "updatemsg": "Please download the new version of the app"
+  }
 }
